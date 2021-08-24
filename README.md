@@ -11,6 +11,6 @@ Let's Grow More Virtual Internship Programme for August 2021 on Data Science dom
 
 ## Intermediate Level Tasks:- 
 
-1. Exploratory Data Analysis
+1. [Exploratory Data Analysis](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-5)
 
 2. Prediction using Decision Tree Algorithm
