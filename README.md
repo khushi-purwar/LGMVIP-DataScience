@@ -7,10 +7,10 @@ Let's Grow More Virtual Internship Programme for August 2021 on Data Science dom
 
 1. [Iris Flower Classification Project](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-1)
 
-2. [Image to Pencil sketch](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-4)
+2. [Image to Pencil sketch](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-2)
 
 ## Intermediate Level Tasks:- 
 
-1. [Exploratory Data Analysis](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-5)
+1. [Exploratory Data Analysis](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-3)
 
-2. [Prediction using Decision Tree Algorithm](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-3)
+2. [Prediction using Decision Tree Algorithm](https://github.com/khushi-purwar/LGMVIP-DataScience/tree/master/Task-4)
